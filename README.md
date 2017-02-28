@@ -19,7 +19,7 @@ After that car accident of an intro-line let me just say something about me:
     <td>Graduate Student</td>
     <td>SSN College of Engineering</td>
     <td>Python, Machine Learning, Deep Learning, Data Analysis,</td>
-    <td>Python Programming, OOPs, ML Using Theano and Numpy</td>
+    <td>Python Programming, OOPs, ML Using Theano and Numpy, Web Scraping and Data Extraction, Web_Dev (HTML, CSS, js), C#</td>
   </tr>
 </table>
 
